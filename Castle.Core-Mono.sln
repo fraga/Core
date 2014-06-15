@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Core", "src\Castle.Core\Castle.Core.csproj", "{E4FA5B53-7D36-429E-8E5C-53D5479242BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Core.Tests", "src\Castle.Core.Tests\Castle.Core.Tests.csproj", "{087AD3BF-5E40-450D-8138-FBB5F57AC474}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Services.Logging.log4netIntegration", "src\Castle.Services.Logging.log4netIntegration\Castle.Services.Logging.log4netIntegration.csproj", "{FA79D6B4-30B1-444A-A627-ED283BF6406B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Services.Logging.NLogIntegration", "src\Castle.Services.Logging.NLogIntegration\Castle.Services.Logging.NLogIntegration.csproj", "{D680B5DB-B943-4BB5-891A-1695DEF86A3A}"
